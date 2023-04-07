@@ -1,17 +1,23 @@
 # test_CrystalChain
 
-Exercice Keyboard Algo :
+Exercice 1: Keyboard Algorithm
 
-node ./keyboardAlgorithm.js
+# node ./keyboardAlgorithm.js
 
-Exercice Enhanced Flexible Grid :
+Exercice 2: Enhanced Flexible Grid
 
-index.html --> Live Server on Visual Studio Code
+# index.html --> Live Server on Visual Studio Code
 
-Exercice Wikipedia Article :
+Exercice 3: Wikipedia Article
 
-node getTopicCount.py
+# node getTopicCount.py
 
-Exercice Min Max :
+Exercice 4: Min Max
 
-node minMax.js
+# node minMax.js
+
+Contributing
+If you have any questions or suggestions, please feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
