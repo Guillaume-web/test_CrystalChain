@@ -1,7 +1,7 @@
 # test_CrystalChain
 
 Exercice Keyboard Algo :
-node keyboardAlgorithm.js
+node ./keyboardAlgorithm.js
 Exercice Enhanced Flexible Grid :
 index.html --> Live Server on Visual Studio Code
 Exercice Wikipedia Article :
